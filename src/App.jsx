@@ -838,8 +838,9 @@ export default function App() {
                 An ultra-luxury executive financial planning application built to model debt, refinance scenarios, and tenure configurations.
               </p>
               <ul className="footer-contact">
-                <li><span>Developer:</span> Ashish Pathak</li>
-                <li><span>Email:</span> <a href="mailto:ashishpathak8604@gmail.com">ashishpathak8604@gmail.com</a></li>
+                <li><span>Developer:</span>Shashank Krishna Srivastva</li>
+                <li><span>Email:</span> <a href="mailto:sshasshankssrivasstava@gmail.com.">sshasshankssrivasstava@gmail.com</a></li>
+               
               </ul>
             </div>
             
